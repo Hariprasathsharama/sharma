@@ -15,7 +15,7 @@ public class Evilno {
             System.out.println("it is evil number");
         }
         else{
-            System.out.println("it is odious number");
+            System.out.println("It is odious number");
         }
     }
 }
