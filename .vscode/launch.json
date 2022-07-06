@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Largestno",
+            "request": "launch",
+            "mainClass": "Largestno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duplicate",
+            "request": "launch",
+            "mainClass": "Duplicate",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotatearray",
+            "request": "launch",
+            "mainClass": "Rotatearray",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Frequencyarray",
+            "request": "launch",
+            "mainClass": "Frequencyarray",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Squareno",
+            "request": "launch",
+            "mainClass": "Squareno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binaryno",
+            "request": "launch",
+            "mainClass": "Binaryno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Buzzno",
+            "request": "launch",
+            "mainClass": "Buzzno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Divisior",
+            "request": "launch",
+            "mainClass": "Divisior",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duckno",
+            "request": "launch",
+            "mainClass": "Duckno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evilno",
+            "request": "launch",
+            "mainClass": "Evilno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Increasing_number",
+            "request": "launch",
+            "mainClass": "Increasing_number",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Isbno",
+            "request": "launch",
+            "mainClass": "Isbno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch NthPrime",
+            "request": "launch",
+            "mainClass": "NthPrime",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Smithno",
+            "request": "launch",
+            "mainClass": "Smithno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Spynumber",
+            "request": "launch",
+            "mainClass": "Spynumber",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strontonio",
+            "request": "launch",
+            "mainClass": "Strontonio",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Technumber",
+            "request": "launch",
+            "mainClass": "Technumber",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Xylem_phloem",
+            "request": "launch",
+            "mainClass": "Xylem_phloem",
+            "projectName": "java_a4dc5dda"
+        }
+    ]
+}
