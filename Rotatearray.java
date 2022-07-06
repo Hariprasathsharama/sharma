@@ -1,8 +1,9 @@
 import java.util.*;
 public class Rotatearray {
     public static void main(String[] args) {
-        Scanner s=new Scanner(System.in);
+       
         System.out.println("Enter the element of the array");
+        Scanner s=new Scanner(System.in);
         int n=s.nextInt();
         int first=0,j;
         int []a=new int[n];
@@ -14,6 +15,7 @@ public class Rotatearray {
         }
         System.out.println("Enter how much to rotate");
         int num=s.nextInt();
+        s.close();
         for (int i = 0; i < num; i++) {
             first=a[0];
             for (j = 0; j < a.length-1; j++) {
@@ -25,6 +27,6 @@ public class Rotatearray {
         for ( j = 0; j < a.length; j++) {
             System.out.print(a[j]);
         }
-        s.close();
+      
     }
 }
