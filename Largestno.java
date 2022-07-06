@@ -5,7 +5,7 @@ public class Largestno {
         System.out.println("Enter the number");
         int n=s.nextInt();
         int i,temp=0;
-       
+        s.close();
         int a[]=new int[n];
         for ( i = 0; i < n ;i++) {
             a[i]=s.nextInt();
