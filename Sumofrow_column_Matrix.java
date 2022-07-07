@@ -9,14 +9,19 @@ public class Sumofrow_column_Matrix {
         int c=s.nextInt();
         int a[][]=new int[r][c];
         int sumrow=0,sumcol=0;
-        for (int i = 0; i < r; i++) {
-            for (int j = 0; j < c; j++) {
-                a[i][j]=s.nextInt();
-            }
-        }
+     
         
-        if(r==c)
+        if(r!=c)
         {
+            System.out.println("Matrix must be square"); 
+            
+        }    
+        else{
+            for (int i = 0; i < r; i++) {
+                for (int j = 0; j < c; j++) {
+                    a[i][j]=s.nextInt();
+                }
+            }
             for (int i = 0; i < r; i++) {
                 sumrow=0;
                 for (int j = 0; j < c; j++) {
@@ -33,9 +38,7 @@ public class Sumofrow_column_Matrix {
                 }
                 System.out.println("sum of" + (i+1) + "column"+ sumcol);
             }
-        }    
-        else{
-            System.out.println("Matrix must be square");                        
+                                   
         }
         s.close();
 
