@@ -6,6 +6,335 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Mulitiplication_Subtraction",
+            "request": "launch",
+            "mainClass": "Zoho60.Mulitiplication_Subtraction",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sortingal",
+            "request": "launch",
+            "mainClass": "Sortingal",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alernate",
+            "request": "launch",
+            "mainClass": "Alernate",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Indicesswap",
+            "request": "launch",
+            "mainClass": "Indicesswap",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Crosspattern",
+            "request": "launch",
+            "mainClass": "Crosspattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Indiacross",
+            "request": "launch",
+            "mainClass": "Indiacross",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cross",
+            "request": "launch",
+            "mainClass": "Cross",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch India",
+            "request": "launch",
+            "mainClass": "India",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Crossno",
+            "request": "launch",
+            "mainClass": "Crossno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringcross",
+            "request": "launch",
+            "mainClass": "Stringcross",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Twosum",
+            "request": "launch",
+            "mainClass": "Twosum",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Halfpizza",
+            "request": "launch",
+            "mainClass": "Halfpizza",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Frequency_String",
+            "request": "launch",
+            "mainClass": "Frequency_String",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number1",
+            "request": "launch",
+            "mainClass": "Number1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pizzapattern",
+            "request": "launch",
+            "mainClass": "Pizzapattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parallelogram",
+            "request": "launch",
+            "mainClass": "Parallelogram",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zoho4",
+            "request": "launch",
+            "mainClass": "Zoho4",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zoho3",
+            "request": "launch",
+            "mainClass": "Zoho3",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zoho2",
+            "request": "launch",
+            "mainClass": "Zoho2",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Zoho1",
+            "request": "launch",
+            "mainClass": "Zoho1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Removedup",
+            "request": "launch",
+            "mainClass": "Removedup",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bubblesort",
+            "request": "launch",
+            "mainClass": "Bubblesort",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinearySearch",
+            "request": "launch",
+            "mainClass": "BinearySearch",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trial",
+            "request": "launch",
+            "mainClass": "Trial",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Char",
+            "request": "launch",
+            "mainClass": "Char",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employeemain",
+            "request": "launch",
+            "mainClass": "pack.packex.packex1.Employeemain",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Message",
+            "request": "launch",
+            "mainClass": "pack.packex.packex1.Message",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Oop",
+            "request": "launch",
+            "mainClass": "Oop",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wordsstrengths",
+            "request": "launch",
+            "mainClass": "Wordsstrengths",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alternate_Sorting",
+            "request": "launch",
+            "mainClass": "Alternate_Sorting",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Printcross",
+            "request": "launch",
+            "mainClass": "Printcross",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveWhitespace",
+            "request": "launch",
+            "mainClass": "RemoveWhitespace",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subset_String",
+            "request": "launch",
+            "mainClass": "Subset_String",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Split_String",
+            "request": "launch",
+            "mainClass": "Split_String",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort_String",
+            "request": "launch",
+            "mainClass": "Sort_String",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringcompare",
+            "request": "launch",
+            "mainClass": "Stringcompare",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch String1",
+            "request": "launch",
+            "mainClass": "String1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Identity_matrix",
+            "request": "launch",
+            "mainClass": "Identity_matrix",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sumofrow_column_Matrix",
+            "request": "launch",
+            "mainClass": "Sumofrow_column_Matrix",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Frequency_Matrix",
+            "request": "launch",
+            "mainClass": "Frequency_Matrix",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch LowerTriangular",
+            "request": "launch",
+            "mainClass": "LowerTriangular",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Add_matrix",
+            "request": "launch",
+            "mainClass": "Add_matrix",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Removeduplicates",
+            "request": "launch",
+            "mainClass": "Removeduplicates",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
             "name": "Launch Largestno",
             "request": "launch",
             "mainClass": "Largestno",
