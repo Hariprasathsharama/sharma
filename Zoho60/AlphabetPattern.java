@@ -6,12 +6,10 @@ public class AlphabetPattern {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         char c=s.next().charAt(0);
-        int n=s.nextInt();
+      
         s.close();
-        if(n>5 && c=='E' || c=='e'){
-            System.out.print("please enter row and character inside the range");
-        }
-        else{
+        if(c>='a' && c<='z'){
+            int n=(int)(c)-(int)('a') + 1;
         for (int i = 0; i <n; i++) {
             for (int j = n-i; j >=1; j--) {
                 System.out.print((char)(c-i));
@@ -19,5 +17,15 @@ public class AlphabetPattern {
             System.out.println();
         }
     }
+    else{
+        int n=(int)(c)-(int)('A') + 1;
+        for (int i = 0; i <n; i++) {
+            for (int j = n-i; j >=1; j--) {
+                System.out.print((char)(c-i));
+            }
+            System.out.println();
+        }
+    }
+    
     }
 }
