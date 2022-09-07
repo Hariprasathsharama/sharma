@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Powoftworange",
+            "request": "launch",
+            "mainClass": "Bitmanipulation.Powoftworange",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Poweroftwo",
+            "request": "launch",
+            "mainClass": "Bitmanipulation.Poweroftwo",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
             "name": "Launch FindNoofDigit",
             "request": "launch",
             "mainClass": "Bitmanipulation.FindNoofDigit",
