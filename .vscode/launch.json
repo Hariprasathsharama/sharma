@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FindNoofDigit",
+            "request": "launch",
+            "mainClass": "Bitmanipulation.FindNoofDigit",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
             "name": "Launch Sumofno",
             "request": "launch",
             "mainClass": "Sumofno",
