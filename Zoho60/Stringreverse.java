@@ -1,4 +1,6 @@
-public class Zoho4 {
+package Zoho60;
+
+public class Stringreverse{
     public static void main(String[] args) {
         String s="i love india";
         String []w=s.split(" ");
@@ -9,4 +11,6 @@ public class Zoho4 {
         System.out.print(revwords);
     }
 }
+
+
 

@@ -6,6 +6,426 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sumofno",
+            "request": "launch",
+            "mainClass": "Sumofno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nthelement",
+            "request": "launch",
+            "mainClass": "Nthelement",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMagicno",
+            "request": "launch",
+            "mainClass": "Bitmanipulation.FindMagicno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Finddigitinbit",
+            "request": "launch",
+            "mainClass": "Bitmanipulation.Finddigitinbit",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample",
+            "request": "launch",
+            "mainClass": "Bitmanipulation.Sample",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitopoccurence",
+            "request": "launch",
+            "mainClass": "Bitopoccurence",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duplicatesusingbit",
+            "request": "launch",
+            "mainClass": "Duplicatesusingbit",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitoperatorswap",
+            "request": "launch",
+            "mainClass": "Bitoperatorswap",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bitoperator",
+            "request": "launch",
+            "mainClass": "Bitoperator",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinklistHeadandTail_Main",
+            "request": "launch",
+            "mainClass": "oops.Linkedlists.LinklistHeadandTail_Main",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Twosum",
+            "request": "launch",
+            "mainClass": "oops.Map.Twosum",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapEntryset",
+            "request": "launch",
+            "mainClass": "oops.Map.MapEntryset",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch LL1main",
+            "request": "launch",
+            "mainClass": "oops.Linkedlists.LL1main",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlistmain",
+            "request": "launch",
+            "mainClass": "oops.Linkedlists.Linkedlistmain",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenericsMain",
+            "request": "launch",
+            "mainClass": "oops.Generics.GenericsMain",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample2",
+            "request": "launch",
+            "mainClass": "oops.Generics.Sample2",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sample1",
+            "request": "launch",
+            "mainClass": "oops.Generics.Sample1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "oops.Main",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface3",
+            "request": "launch",
+            "mainClass": "oops.Interface3",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract2",
+            "request": "launch",
+            "mainClass": "oops.Abstract2",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abstract1",
+            "request": "launch",
+            "mainClass": "oops.Abstract1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queueusingarray",
+            "request": "launch",
+            "mainClass": "Datastructure.Queueusingarray",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackusingArray1",
+            "request": "launch",
+            "mainClass": "Datastructure.StackusingArray1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch NoofEle",
+            "request": "launch",
+            "mainClass": "Zoho60.NoofEle",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraycopy",
+            "request": "launch",
+            "mainClass": "Zoho60.Arraycopy",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAlpha",
+            "request": "launch",
+            "mainClass": "Zoho60.FindAlpha",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Areaofshapes",
+            "request": "launch",
+            "mainClass": "Areaofshapes",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duplicate",
+            "request": "launch",
+            "mainClass": "Zoho60.Duplicate",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrayssortoddeven",
+            "request": "launch",
+            "mainClass": "Zoho60.Arrayssortoddeven",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alternativesorting",
+            "request": "launch",
+            "mainClass": "Zoho60.Alternativesorting",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Alphawithnumber",
+            "request": "launch",
+            "mainClass": "Zoho60.Alphawithnumber",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringreverse",
+            "request": "launch",
+            "mainClass": "Zoho60.Stringreverse",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrayssort",
+            "request": "launch",
+            "mainClass": "Zoho60.Arrayssort",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mergesortedarrays",
+            "request": "launch",
+            "mainClass": "Zoho60.Mergesortedarrays",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stardashpattern",
+            "request": "launch",
+            "mainClass": "Zoho60.Stardashpattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatternC",
+            "request": "launch",
+            "mainClass": "Zoho60.PatternC",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberxrevPattern",
+            "request": "launch",
+            "mainClass": "Zoho60.NumberxrevPattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramidno",
+            "request": "launch",
+            "mainClass": "Zoho60.Pyramidno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "Zoho60.Pattern4",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Zoho60.Pattern3",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Zoho60.Pattern2",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Zoho60.Pattern1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverseno",
+            "request": "launch",
+            "mainClass": "Zoho60.Reverseno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sumofarray",
+            "request": "launch",
+            "mainClass": "Zoho60.Sumofarray",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rightrotate",
+            "request": "launch",
+            "mainClass": "Zoho60.Rightrotate",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Oddpos",
+            "request": "launch",
+            "mainClass": "Zoho60.Oddpos",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evenpos",
+            "request": "launch",
+            "mainClass": "Zoho60.Evenpos",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumofnandLargedigit",
+            "request": "launch",
+            "mainClass": "Zoho60.SumofnandLargedigit",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorialandsum",
+            "request": "launch",
+            "mainClass": "Zoho60.Factorialandsum",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Smallestno",
+            "request": "launch",
+            "mainClass": "Zoho60.Smallestno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Largeno",
+            "request": "launch",
+            "mainClass": "Zoho60.Largeno",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vowel",
+            "request": "launch",
+            "mainClass": "Zoho60.Vowel",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evenorodd",
+            "request": "launch",
+            "mainClass": "Zoho60.Evenorodd",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swap",
+            "request": "launch",
+            "mainClass": "Zoho60.Swap",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuoandRem",
+            "request": "launch",
+            "mainClass": "Zoho60.QuoandRem",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAscii",
+            "request": "launch",
+            "mainClass": "Zoho60.FindAscii",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Numberxpattern",
+            "request": "launch",
+            "mainClass": "Zoho60.Numberxpattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlphabetPattern",
+            "request": "launch",
+            "mainClass": "Zoho60.AlphabetPattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reversesub",
+            "request": "launch",
+            "mainClass": "Zoho60.Reversesub",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch UptoZ",
+            "request": "launch",
+            "mainClass": "Zoho60.UptoZ",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
             "name": "Launch Mulitiplication_Subtraction",
             "request": "launch",
             "mainClass": "Zoho60.Mulitiplication_Subtraction",

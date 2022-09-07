@@ -1,5 +1,7 @@
+package Zoho60;
 import java.util.*;
-public class Alternate_Sorting {
+public class Arrayssortoddeven {
+
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int n=s.nextInt();
@@ -39,3 +41,4 @@ public class Alternate_Sorting {
     }
 
 }
+
