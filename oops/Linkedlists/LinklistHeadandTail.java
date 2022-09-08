@@ -58,6 +58,9 @@ public class LinklistHeadandTail {
             insertLast(val);
             return;
         }
+        if(pos>size){
+            throw new IndexOutOfBoundsException("List out of range");
+        }
         else{
             for (int i = 1; i < pos; i++) {
                 temp=temp.next;
@@ -70,14 +73,31 @@ public class LinklistHeadandTail {
     public void  deletefirst(){
         if(head==null){
             tail=null;
+            throw new ArrayIndexOutOfBoundsException("No values");
         }
         head=head.next;
         size--;
     }
     public void deletelast(){
+        tail=head;
         for (int i = 1; i < size; i++) {
-            
+            tail=tail.next;
         }
+        tail.next=null;
+        size--;
+    }
+    public void  Deleteatpos(int pos){
+        if(head==null){
+            throw new IndexOutOfBoundsException("List is empty");
+        }
+        Node temp=head;
+        Node prev=null;
+        for (int i = 1; i < pos; i++) {
+            prev=temp;
+            temp=temp.next;
+        }
+        prev.next=temp.next;
+
     }
 
 }

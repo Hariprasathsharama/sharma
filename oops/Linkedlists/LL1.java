@@ -14,7 +14,7 @@ class Node{
 public class LL1 {
     Node head;
 
-
+    int size=0;
     public LL1() {
         head=null;
     }
@@ -27,6 +27,7 @@ public class LL1 {
             newnode.next=head;
             head=newnode;
         }
+        size++;
     }
     public void display(){
      Node temp=head;
@@ -35,12 +36,19 @@ public class LL1 {
         temp=temp.next;
      }   
     }
-    // public void insertatpos(int val,int pos){
-    //     Node newnode=new Node(val);
-    //     Node temp=head;
-    //     for (int i = 1; i < pos; i++) {
-    //         temp=temp.next;
-    //     }
- 
-    // }
+    public void insertatpos(int val,int pos){
+        if(pos==0){
+            insert(val);
+            return;
+        }
+        if(pos>size){
+            throw new IllegalArgumentException("Invalid pos" + pos);        }
+        Node newnode=new Node(val);
+        Node temp=head;
+        for (int i = 1; i < pos; i++) {
+            temp=temp.next;
+        }
+        newnode.next=temp.next;
+        temp.next=newnode;
+    }
 }

@@ -8,6 +8,8 @@ public class LL1main {
         list.insert(30);
         list.insert(40);
         list.insert(50);
+        
+        list.insertatpos(25, 2);
         list.display();
          
     }
