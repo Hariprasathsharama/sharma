@@ -5,15 +5,15 @@ public class Sudoku {
     public static void main(String[] args) {
         int [][] board = new int[][]
                 {
-                        { 3, 0, 6, 5, 0, 8, 4, 0, 0 },
-                        { 5, 2, 0, 0, 0, 0, 0, 0, 0 },
-                        { 0, 8, 7, 0, 0, 0, 0, 3, 1 },
-                        { 0, 0, 3, 0, 1, 0, 0, 8, 0 },
-                        { 9, 0, 0, 8, 6, 3, 0, 0, 5 },
-                        { 0, 5, 0, 0, 9, 0, 6, 0, 0 },
-                        { 1, 3, 0, 0, 0, 0, 2, 5, 0 },
-                        { 0, 0, 0, 0, 0, 0, 0, 7, 4 },
-                        { 0, 0, 5, 2, 0, 6, 3, 0, 0 }
+                    {8, 4, 9, 0, 0, 3, 5, 7, 0},
+                    {0, 1, 0, 0, 0, 0, 0, 0, 0},
+                    {7, 0, 0, 0, 9, 0, 0, 8, 3},
+                    {0, 0, 0, 9, 4, 6, 7, 0, 0},
+                    {0, 8, 0, 0, 5, 0, 0, 4, 0},
+                    {0, 0, 6, 8, 7, 2, 0, 0, 0},
+                    {5, 7, 0, 0, 1, 0, 0, 0, 4},
+                    {0, 0, 0, 0, 0, 0, 0, 1, 0},
+                    {0, 2, 1, 7, 0, 0, 8, 6, 5}
                 };
 
         if(sudokugame(board, 9)){
@@ -76,6 +76,16 @@ public class Sudoku {
         for (int i = 0; i < 9; i++) {
             if(board[i][column] == numbers){
                 return  false;
+            }
+        }
+        int baserow = row - (row % 3);
+        int basecolumn = column - (column % 3);
+        for (int i = baserow; i < baserow + 3; i++) {
+            for (int j = basecolumn; j < basecolumn + 3; j++) {
+                if(board[i][j] == numbers){
+                    return  false;
+                }
+
             }
         }
         return true;

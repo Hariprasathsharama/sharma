@@ -6,6 +6,349 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem2",
+            "request": "launch",
+            "mainClass": "Problem2",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem1",
+            "request": "launch",
+            "mainClass": "Problem1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subarrayofnumber",
+            "request": "launch",
+            "mainClass": "Subarrayofnumber",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reversenumber",
+            "request": "launch",
+            "mainClass": "Recursion.Reversenumber",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binearysearch",
+            "request": "launch",
+            "mainClass": "Recursion.Binearysearch",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sudokusample",
+            "request": "launch",
+            "mainClass": "sudokugame.Sudokusample",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sudoku",
+            "request": "launch",
+            "mainClass": "sudokugame.Sudoku",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatherson1",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Fatherson1",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEvenpos",
+            "request": "launch",
+            "mainClass": "Aboutarrays.OddEvenpos",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mentors",
+            "request": "launch",
+            "mainClass": "projectblueprint.Mentors",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "projectblueprint.Main",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testabstraction",
+            "request": "launch",
+            "mainClass": "A.Testabstraction",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Testabstraction",
+            "request": "launch",
+            "mainClass": "Testabstraction",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mainss",
+            "request": "launch",
+            "mainClass": "Mainss",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mains",
+            "request": "launch",
+            "mainClass": "oops.Generics.Mains",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "oops.Generics.Main",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Staticbin",
+            "request": "launch",
+            "mainClass": "oops.Generics.Staticbin",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Staticbinding",
+            "request": "launch",
+            "mainClass": "oops.Generics.Staticbinding",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkdlist",
+            "request": "launch",
+            "mainClass": "Collections.Linkdlist",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stacksample",
+            "request": "launch",
+            "mainClass": "Collections.Stacksample",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Pattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Employeemain",
+            "request": "launch",
+            "mainClass": "oops.Objectclass.Employeemain",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch objectsample",
+            "request": "launch",
+            "mainClass": "oops.Objectclass.objectsample",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Listinteger",
+            "request": "launch",
+            "mainClass": "Collections.Listinteger",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotatearrayleetcode",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Rotatearrayleetcode",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotatearrayscomplex",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Rotatearrayscomplex",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rotatearrays",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Rotatearrays",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mapmethodss",
+            "request": "launch",
+            "mainClass": "Datastructure.map.Mapmethodss",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Findgrandchildren",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Findgrandchildren",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatherchild",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Fatherchild",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumofWeights",
+            "request": "launch",
+            "mainClass": "Aboutarrays.SumofWeights",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multiplicationofmatrix",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Multiplicationofmatrix",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrixmul",
+            "request": "launch",
+            "mainClass": "Matrixmul",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrixmul",
+            "request": "launch",
+            "mainClass": "Aboutarrays.Matrixmul",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrixmul",
+            "request": "launch",
+            "mainClass": "Arraysall.Matrixmul",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "Array_s.MatrixMultiplication",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrixmultiplication",
+            "request": "launch",
+            "mainClass": "Array_s.Matrixmultiplication",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEvenpos",
+            "request": "launch",
+            "mainClass": "Array_s.OddEvenpos",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch oddeven",
+            "request": "launch",
+            "mainClass": "Arrays.oddeven",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evenoddpos",
+            "request": "launch",
+            "mainClass": "Arrays.Evenoddpos",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrixmultiplication",
+            "request": "launch",
+            "mainClass": "Arrays.Matrixmultiplication",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern",
+            "request": "launch",
+            "mainClass": "Arrays.Pattern",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumofWeights",
+            "request": "launch",
+            "mainClass": "Arrays.SumofWeights",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoublylinkedlistMain",
+            "request": "launch",
+            "mainClass": "oops.Linkedlists.DoublylinkedlistMain",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedliMain",
+            "request": "launch",
+            "mainClass": "oops.Generics.LinkedliMain",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Whileloop",
+            "request": "launch",
+            "mainClass": "Whileloop",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Biginteger",
+            "request": "launch",
+            "mainClass": "Biginteger",
+            "projectName": "java_a4dc5dda"
+        },
+        {
+            "type": "java",
             "name": "Launch Powoftworange",
             "request": "launch",
             "mainClass": "Bitmanipulation.Powoftworange",

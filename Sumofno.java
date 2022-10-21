@@ -10,7 +10,7 @@ public class Sumofno {
             sum=sum+k;
              System.out.println(k);
         }
-      System.out.println(k);
-       
+      System.out.println(k); 
+      
     }
 }
