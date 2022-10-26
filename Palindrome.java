@@ -12,9 +12,7 @@ public class Palindrome {
       if(res.equals(s)){
         System.out.print("palindrome");
       }  
-      else{
-        System.out.print("Not a palindrome");
-      }
+
     }
    
 }
